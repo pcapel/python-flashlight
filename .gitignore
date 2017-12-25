@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# shoot son, you wanna read what I think, you gotta pay
+*my_*
+
 # Distribution / packaging
 .Python
 env/
